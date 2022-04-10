@@ -1,0 +1,3 @@
+#!ressources/yasl_linux
+
+"Hello world\n" print

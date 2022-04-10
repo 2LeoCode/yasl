@@ -1,0 +1,7 @@
+#!ressources/yasl_linux
+
+4 == ? (
+	!# #(" " # ^)
+	# !^
+	# 1 - #+ eval "\n" + print
+)
